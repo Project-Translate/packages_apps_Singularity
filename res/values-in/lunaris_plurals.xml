@@ -6,7 +6,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <plurals name="ts_added_installed_count">
-        <item quantity="one">Added %d app to targets</item>
-        <item quantity="other">Added %d apps to targets</item>
+        <item quantity="one">Menambahkan %d aplikasi ke target</item>
+        <item quantity="other">Menambahkan %d aplikasi ke target</item>
     </plurals>
 </resources>
