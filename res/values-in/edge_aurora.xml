@@ -24,6 +24,9 @@
     <string name="edge_aurora_save_failed">Tidak dapat menyimpan pilihan aplikasi. Coba lagi.</string>
     <string name="edge_aurora_limit">Tidak dapat menyimpan pengaturan cahaya lagi. Hapus cahaya atau grup yang tidak digunakan, lalu coba lagi.</string>
     <string name="edge_aurora_interaction">Interaksi</string>
+    <string name="edge_aurora_auto_hide">Sembunyikan cahaya otomatis</string>
+    <string name="edge_aurora_auto_hide_summary">Sembunyikan cahaya setelah jeda yang dipilih. Notifikasi tetap ada di panel notifikasi.</string>
+    <string name="edge_aurora_auto_hide_timeout">Sembunyikan setelah</string>
     <string name="edge_aurora_popup_blur">Latar buram pop-up notifikasi</string>
     <string name="edge_aurora_popup_blur_summary">Gunakan efek buram di belakang panel notifikasi. Nonaktifkan untuk latar belakang solid.</string>
     <string name="edge_aurora_open_action">Buka panel notifikasi</string>
