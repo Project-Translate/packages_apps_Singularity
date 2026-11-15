@@ -71,6 +71,8 @@
     <string name="themes_udfps_icon_summary">Atur gaya ikon UDFPS</string>
     <string name="themes_udfps_animation_title">Animasi UDFPS</string>
     <string name="themes_udfps_animation_summary">Atur gaya animasi UDFPS</string>
+    <string name="dialog_blur_title">Latar buram dialog dan toast</string>
+    <string name="dialog_blur_summary">Buramkan latar belakang dialog dan toast sistem</string>
     <string name="udfps_animation_offset_title">Offset animasi UDFPS</string>
     <string name="udfps_animation_offset_summary">Atur posisi vertikal animasi sidik jari</string>
     <string name="udfps_animation_size_title">Ukuran animasi UDFPS</string>
