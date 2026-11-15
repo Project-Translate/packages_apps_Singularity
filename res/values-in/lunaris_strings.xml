@@ -3099,6 +3099,7 @@
     <string name="media_seekbar_style_glowing">Bercahaya</string>
     <string name="media_seekbar_style_gradient_wave">Gelombang gradien</string>
     <string name="media_seekbar_style_cos">COS</string>
+    <string name="media_seekbar_style_comet_trail">Jejak komet</string>
 
     <string name="network_speed_settings_title">Indikator jaringan</string>
     <string name="network_speed_settings_summary">Kecepatan jaringan, sembunyikan otomatis, penempatan, dan tata letak teks</string>
