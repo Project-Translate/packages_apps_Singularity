@@ -31,7 +31,7 @@
     <string name="status_bar_title">Bilah status</string>
     <string name="status_bar_summary">Ikon, indikator privasi</string>
     <string name="quick_settings_title">Setelan Cepat</string>
-    <string name="quick_settings_summary">Antarmuka dan setelan Setelan Cepat</string>
+    <string name="quick_settings_summary">Setelan Antarmuka dan Setelan Cepat</string>
     <string name="notifications_title">Notifikasi</string>
     <string name="notifications_summary">Notifikasi, antarmuka, ikon</string>
     <string name="power_menu_title">Menu daya</string>
